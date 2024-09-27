@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: obj2b-sep27-1-database-config
+data:
+  VECTORDB_HOST: "obj2b-sep27-1-database"
+  VECTORDB_PORT: ""
